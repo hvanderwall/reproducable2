@@ -2,6 +2,6 @@
 
 Short description about fishes repository
 
-_Jaws
-_Nemo
-_Tails
+-Jaws
+-Nemo
+-Tails
