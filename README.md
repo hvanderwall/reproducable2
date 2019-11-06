@@ -2,6 +2,6 @@
 
 Short description about fishes repository
 
--Jaws
--Nemo
--Tails
+/Jaws
+/Nemo
+/Tails
